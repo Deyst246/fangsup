@@ -1,0 +1,17 @@
+
+body {
+  background: white;
+  color: navy;
+  font-family: monospace;
+}
+#logo {
+  height: 50px;
+  width: 25%
+}
+#logotext {
+  font-size: 25px;
+  font-family: monospace;
+}
+header {
+  background: gray;
+}
